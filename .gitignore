@@ -1,0 +1,22 @@
+# Binaries & Compiled classes
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Data storage
+data/*.dat
+data/*.tmp
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS generated files
+Thumbs.db
+.DS_Store
